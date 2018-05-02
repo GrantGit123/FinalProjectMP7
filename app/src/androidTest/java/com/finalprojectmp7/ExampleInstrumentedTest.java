@@ -23,4 +23,5 @@ public class ExampleInstrumentedTest {
 
         assertEquals("com.finalprojectmp7", appContext.getPackageName());
     }
+
 }
